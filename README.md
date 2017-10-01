@@ -2,6 +2,8 @@
 A sub MIPS program to C
 <p>
   
+  Full program with GUI: https://github.com/Subalzero/Mini-C-to-MIPS-and-Reverse
+  
   Grammar rules:
   
     program -> stmts
