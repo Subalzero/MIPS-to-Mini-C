@@ -36,4 +36,16 @@ A sub MIPS program to C
             
             xor  reg, reg, reg |
             
-            j label
+            j label |
+            
+            beq  reg, reg, label |
+            
+            bgt  reg, reg, label |
+            
+            blt  reg, reg, label |
+            
+            beqz  reg, label |
+            
+            bgtz  reg, label |
+            
+            bltz  reg, label
