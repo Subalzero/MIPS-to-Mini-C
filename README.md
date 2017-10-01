@@ -3,11 +3,11 @@ A sub MIPS program to C
 <p>
   Grammar rules:
   
-  program -> stmts
+    program -> stmts
   
-  stmts -> stmt stmts
+    stmts -> stmt stmts
   
-  stmt -> label: stmts |
+    stmt -> label: stmts |
   
             li  ,reg1, reg2, num |
             
