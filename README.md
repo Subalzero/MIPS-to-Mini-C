@@ -1,6 +1,9 @@
 # MIPS-to-Mini-C
 A sub MIPS program to C
 <p>
+  
+  Compile using Java.
+  
   Grammar rules:
   
     program -> stmts
